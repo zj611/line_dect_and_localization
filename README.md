@@ -23,3 +23,8 @@ python main0.py
 2.You can assign the lane (left or right) by pressing the key 'q' or 'w'.
 
 3.You can choose whether to turn off yellow detection by pressing the key 'e'.
+
+4.The VideoCapture.py can be used for recording video dataset.
+```
+python VideoCapture.py your_video_name
+```
