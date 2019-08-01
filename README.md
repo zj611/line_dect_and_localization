@@ -15,6 +15,7 @@ git clone https://github.com/zj611/line_dect_and_localization.git
 ```
 python main0.py
 ```
+2.[![Watch the video](https://github.com/zj611/line_dect_and_localization/data/ssss-2019-07-31_10.56.02.mp4)]
 
 # Other additional functions
 1.You can assign the speed value by pressing the keyboard 1~9, and `(on the left side of '1') is stopping command.
