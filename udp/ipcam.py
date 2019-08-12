@@ -10,7 +10,7 @@ if __name__ == '__main__':
     path = 0
     frame_buffer = Stack(3)
     
-    host='192.168.31.228'
+    host='192.168.31.***'
     port=9999
     
     # 线程1 读取视频图像送入队列中
