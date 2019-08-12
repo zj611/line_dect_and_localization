@@ -16,7 +16,10 @@ git clone https://github.com/zj611/line_dect_and_localization.git
 python main0.py
 ```
 2.[![Watch the video](https://github.com/zj611/line_dect_and_localization/tree/master/data/ssss-2019-07-31.mp4)]
-
+3.The following image shows our system's infrastructure.The communication scheme adopts Socket programming based on UDP protocol.
+![](data/infrastructure.png) 
+![](data/img_processing.png) 
+![](data/img.png) 
 # Other additional functions
 1.You can assign the speed value by pressing the keyboard 1~9, and `(on the left side of '1') is stopping command.
 
