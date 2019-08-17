@@ -1,7 +1,7 @@
 # Line dectection using  HSV color extraction and slide windows method (python)
 
 # Configuration
-1.Python3.5 ,opencv-python and yaml is necessary
+1.Python3.5 ,opencv-python,pyqt5 and yaml are necessary
 ```
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python 
 ```
