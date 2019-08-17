@@ -1,5 +1,5 @@
 # coding=utf-8
-MAX_STEER0: 45  #  
+MAX_STEER0: 45  #35 # 45 
 MAX_STEER0_1: 60
 MAX_STEER1: 85  # k大于MAX_k时的上限（第3个区间）
 
@@ -8,7 +8,7 @@ MAX_k: 0.18
 
 MAX_lane: 130  # max lane error (-120,120)
 
-P_para1:  1.8  # cmd = d_error * P_para1                 k is very min (k < MIN_k)
+P_para1: 1.3 #1.8  # cmd = d_error * P_para1                 k is very min (k < MIN_k)
 
 P_para20: 35 # cmd = （k * P_para20)^2 + P_para20_b      k is min      (MIN_k < k < max_steer_threshold)  
 P_para20_b: 20 #15
@@ -27,13 +27,15 @@ bais: 0       #
 lane_memory: 1  #初始车道位置，1-left， 2-right  一般无须给定，除非在弯道等无法识别足够多点的地方
 #------------------------------
 #  检查wifi 检查运算延时 是否循虚线
-t0: 70         #100  测试用
-speed_value: 70
+t0: 50        #100  测试用
+speed_value: 40
 dotted_line: 0   # 1 循虚线  0 循车道中心
-#path: 1
+path: 0
 #------------------------------
-path: "192.168.31.228"
-#path: data/ssss1.mp4
+#path: "192.168.31.***"
+# path: 0000.mp4
+
+#path: /media/zj/data/saic/data/allline.mp4
 #path: 'data/ss-0.mp4'
 #path: 'data/00010.mp4'
 #path:  'data/allline.mp4'

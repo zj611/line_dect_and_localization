@@ -7,8 +7,8 @@ def detect_line1(show_img):
     xmin = 0
     xmax = 640
     center = (xmax - xmin) / 2
-    ymin = 120
-    ymax = 140
+    ymin = 460
+    ymax = 480
     bottom = ymax - ymin
     x_bottom = xmax - xmin
     kb = 0.001
