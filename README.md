@@ -22,7 +22,7 @@ python main0.py
 
 3.The following image shows our system's infrastructure.The communication scheme adopts Socket programming based on UDP protocol.
 
-![](data/111111.png) 
+![](data/111111.gif) 
 ![](data/q.png) 
 ![](data/infrastructure.png) 
 ![](data/img_processing.png) 
