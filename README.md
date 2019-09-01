@@ -24,7 +24,7 @@ python main0.py
 
 ![](data/111111.gif) 
 ![](data/q.png) 
-![](data/infrastructure.png) 
+![](data/121212.jpeg) 
 ![](data/img_processing.png) 
 ![](data/img.png) 
 # Other additional functions
